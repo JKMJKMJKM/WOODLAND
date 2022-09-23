@@ -1,0 +1,37 @@
+.bady2
+{
+height:220px;
+background-color: black;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.nav
+{
+vertical-align: middle;
+cursor: pointer;
+transition: background-color 1s;
+}
+.nav:hover
+{
+background-color: rgb(44,100,49);
+
+}
+.navimg
+{
+margin-top: 20px;
+margin-left: 70px;
+}
+.navimg1
+{
+margin-top: 20px;
+margin-left: 120px;
+}
+.navtext
+{
+    color: rgb(255, 255, 255);
+    height: 20px;
+    font-size: 20px;
+    text-align: center;
+
+}
+

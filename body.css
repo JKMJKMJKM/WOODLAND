@@ -1,0 +1,225 @@
+.bady1
+{
+height:550px;
+background-color: green;
+margin: 0px;
+}
+.image1
+{
+max-width:1350px;
+height: auto;
+margin: 0px;
+}
+
+
+.bady3
+{
+height:410px;
+position: relative;
+
+}
+
+.bady3sub
+{
+    position: absolute;
+    top:40px;
+    right: 100px;
+    width: 500px;
+color: white;
+font-size: 20px;
+display: inline-block;
+}
+.subtext1
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+margin-bottom: 0px;
+}
+.subtext2
+{
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 60px;
+margin-bottom: 0px;
+letter-spacing: ;
+    
+}
+.subtext3
+{
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+letter-spacing: 1px;
+    
+}
+.subbut
+{
+    background-color: rgb(44,100,49);
+padding-top:12.8px;
+padding-left: 32px;
+padding-right: 32px;
+padding-bottom: 11.2px;
+font-size: 24px;
+font-weight: 500;
+letter-spacing: 1.5px;
+border-color: rgb(44,100,49);
+color: white;
+border-width: 0px;
+cursor: pointer;
+}
+.image3
+{
+    max-width:1350px;
+    height: auto;
+    margin: 0px;
+}
+
+.bady4
+{
+height:410px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+background-color: yellow;
+}
+.bady4-2
+{
+color: white;
+position: relative;
+}
+
+.bady4-2sub
+{
+position: absolute;
+top: 20px;
+right: 40px;
+width:240px
+
+}
+
+.image4
+{
+    max-width:675px;
+    height: auto;
+    margin: 0px;
+
+}
+
+.bady5
+{
+    height:405px;
+background-color: rgb(12, 105, 192);
+position: relative;
+
+}
+
+.bady5sub
+{
+    position: absolute;
+    top:20px;
+    right: 150px;
+    width: 500px;
+color: white;
+font-size: 20px;
+display: inline-block;
+width: 460px;
+
+}
+.image5
+{
+    max-width:1350px;
+    height: auto;
+    margin: 0px;
+}
+.bady6
+{
+    height: 400px;px;
+background-color: rgb(12, 105, 192);
+position:relative;
+}
+.bady6sub
+{
+    position: absolute;
+    left:100px;
+    top:30px;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    width: 550px;
+}
+.image6
+{
+    max-width:1350px;
+    height: auto;
+    margin: 0px;
+}
+.bady7
+{
+    height:410px;
+background-color: rgb(12, 105, 192);
+position: relative;
+}
+.bady7sub
+{
+    position: absolute;
+    top:20px;
+    right: 150px;
+    width: 500px;
+color: white;
+font-size: 20px;
+display: inline-block;
+width: 460px;
+
+}
+.image7
+{
+    max-width:1350px;
+    height: auto;
+    margin: 0px;
+}
+
+.bady8
+{
+    height:200px;
+background-color: rgb(0, 0, 0);
+}
+.bady8text1
+{
+padding-top: 48px;
+color: white;
+font-size: 46px;
+font-weight: 400;
+font-family: Arial, Helvetica, sans-serif;
+margin: 0px;
+padding-left: 75px;
+}
+.bady8text2
+{
+    padding-top: 48px;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding-left: 75px;
+    padding-top: 2px;
+}
+
+.bady9
+{
+    height:80px;
+background-color: rgb(0, 0, 0);
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
+.bottom
+{
+height:60px;
+margin-left: 70px;
+}
+.bottomtext
+{
+text-align: right;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+padding-right: 50px;
+}
